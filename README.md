@@ -21,9 +21,9 @@ Overall, it builds a strong foundation for handling real-world database queries 
 
 ##OUTPUT
 
-![Image](https://github.com/user-attachments/assets/c61ee72b-fd23-4b91-8c65-ddf217dd4d95)
-
 ![Image](https://github.com/user-attachments/assets/f6b4fc57-d7ac-472f-8976-f8d48d3827c5)
+
+![Image](https://github.com/user-attachments/assets/c61ee72b-fd23-4b91-8c65-ddf217dd4d95)
 
 ![Image](https://github.com/user-attachments/assets/1bb9b0a0-b601-49da-a3c5-d4fd3c6c6083)
 
